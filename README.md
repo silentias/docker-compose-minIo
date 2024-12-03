@@ -1,2 +1,5 @@
 # docker-compose-minIo
-Docker compose file for fast deployment MinIo storage
+Docker compose файл для быстрого развертывания объектного хранилища MinIo
+
+## Запуск контейнера
+`docker compose up -d`
